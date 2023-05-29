@@ -78,9 +78,10 @@ df2
 ```
 
 # OUPUT
-![image](https://user-images.githubusercontent.com/121300272/233911084-7f3daf8e-6ec9-49f4-995b-68ea9ca9089f.png)
+![image](https://user-images.githubusercontent.com/121300272/233911084-7f3daf8e-6ec9-49f4-995b-68ea9ca9089f.png) 
 
 ![image](https://user-images.githubusercontent.com/121300272/233911230-77ea18a0-9ee7-45de-917a-10141cbf86eb.png)
+
 ![image](https://user-images.githubusercontent.com/121300272/233911300-332dc3a2-549b-4691-b2a9-2befc30068fe.png)
 ![image](https://user-images.githubusercontent.com/121300272/233911371-84edec00-c8e5-4791-b490-05ae3f7e8960.png)
 ![image](https://user-images.githubusercontent.com/121300272/233911510-bd0b1258-e56b-4879-8573-c53d37b1de10.png)
@@ -89,7 +90,7 @@ df2
 ![image](https://user-images.githubusercontent.com/121300272/233911703-7d7508f1-0f33-4886-9542-24e87e41060c.png)
 ![image](https://user-images.githubusercontent.com/121300272/233911844-a4f212bd-5284-470f-b0f9-068c677120e4.png)
 ![image](https://user-images.githubusercontent.com/121300272/233911922-27bb7e1b-93c1-4eb8-95d7-e245d20efcb4.png)
-![image](https://user-images.githubusercontent.com/121300272/233912006-6b884a70-d6d9-4fbf-bafc-38b92bcad3cb.png)
+
 
 ## RESULT
 The Feature Generation process was performed and saved the data to a file. 
